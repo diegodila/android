@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App16</string>
+    <string name="button_search">search</string>
+    <string name="hint_pokemonid">ID do pokemon</string>
+</resources>

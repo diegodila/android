@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TapGame</string>
+    <string name="button_start">Iniciar</string>
+</resources>
