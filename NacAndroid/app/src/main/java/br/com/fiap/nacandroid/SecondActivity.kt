@@ -27,10 +27,9 @@ class SecondActivity : AppCompatActivity() {
             val sharedPref = getSharedPreferences("nacandroid", Context.MODE_PRIVATE)
             var record = sharedPref.getInt("record", 0)
             binding.tvAcess.text = "Acessos: $record"
-            access++
-            record += access
+            record++
             val sharedPrefEditor = getSharedPreferences("nacandroid", Context.MODE_PRIVATE).edit()
-            sharedPrefEditor.putInt("record", access)
+            sharedPrefEditor.putInt("record", record)
             sharedPrefEditor.apply()
             accessScore(record)
         }
