@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NacAndroid</string>
+    <string name="search">search</string>
+    <string name="hello">hello2</string>
+    <string name="estado_consulta">Digite a UF do Estado</string>
+    <string name="uf_default">UF</string>
+    <string name="estado_default">Estado:</string>
+    <string name="casos_default">Casos:</string>
+    <string name="mortes_default">Mortes:</string>
+    <string name="date_default">Data:</string>
+    <string name="get_start">Get Started</string>
+</resources>
