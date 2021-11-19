@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">app23</string>
+    <string name="hint_search">Insira sua busca</string>
+    <string name="button_search">Buscar</string>
+</resources>

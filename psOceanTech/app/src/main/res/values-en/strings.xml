@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">psOceanTech</string>
+    <string name="hint_search">Search id</string>
+    <string name="button_search">Insert your Search ID</string>
+</resources>
