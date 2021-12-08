@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">psOceanTech</string>
+    <string name="hint_search">Buscar pelo Id</string>
+    <string name="button_search">Buscador ID</string>
+    <string name="ph_agua">pHAgua</string>
+    <string name="animais">animais</string>
+    <string name="residuos">residuos</string>
+</resources>
