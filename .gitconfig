@@ -1,4 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
 [remote "origin"]
 	url = https://github.com/diegodila/android.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 	url = https://gitlab.com/diegodila/android.git
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[pull]
+	rebase = true
