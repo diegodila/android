@@ -1,0 +1,4 @@
+[remote "origin"]
+	url = https://github.com/diegodila/android.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	url = https://gitlab.com/diegodila/android.git
